@@ -1,3 +1,3 @@
 # xenophon
 
-A toy simulation of economic activity.
+A toy simulator of economic activity.
